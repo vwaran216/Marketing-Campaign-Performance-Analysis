@@ -1,0 +1,42 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Raw datasets
+data/raw/
+
+# Intermediate datasets
+data/processed/combined_dataset_unmodified.csv
+data/processed/cleaned_dataset.csv
+data/processed/model_ready_dataset.csv
+
+# Keep the final dataset required by the dashboard
+!data/processed/feature_engineered_dataset.csv

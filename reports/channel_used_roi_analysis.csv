@@ -1,0 +1,43 @@
+Channel_Used,Campaign_Count,Average_ROI,Median_ROI
+"Google, Instagram, WhatsApp",2536,2.8782,1.27
+"Email, Google, Instagram",2549,2.8684,1.35
+"Facebook, Google, Instagram",2536,2.8512,1.335
+"Instagram, YouTube",3443,2.8251,1.23
+"Email, Google, YouTube",2443,2.7936,1.31
+Email,8494,2.7889,1.27
+"Email, YouTube",3354,2.7838,1.265
+"Google, Instagram",3314,2.7726,1.26
+"Email, Facebook, YouTube",2508,2.7578,1.24
+"Facebook, WhatsApp",3195,2.7559,1.32
+"Email, Google",3385,2.755,1.2
+"Email, Instagram",3333,2.75,1.27
+"Instagram, WhatsApp",3359,2.7383,1.33
+WhatsApp,8262,2.7342,1.23
+"Email, Facebook, Google",2507,2.7274,1.2
+"Facebook, Instagram, YouTube",2536,2.7253,1.27
+"Email, WhatsApp",3417,2.7227,1.28
+Instagram,8390,2.7208,1.28
+"Instagram, WhatsApp, YouTube",2534,2.7147,1.235
+"Facebook, Instagram, WhatsApp",2537,2.7117,1.2
+"Email, Facebook, Instagram",2456,2.6969,1.235
+"Email, Facebook",3410,2.693,1.28
+"Email, Facebook, WhatsApp",2561,2.689,1.23
+"Facebook, Google, YouTube",2508,2.6871,1.23
+Facebook,8367,2.685,1.2
+"Email, Instagram, WhatsApp",2448,2.6772,1.27
+"Email, Instagram, YouTube",2499,2.6679,1.2
+"Email, WhatsApp, YouTube",2480,2.6583,1.19
+"Facebook, Google",3370,2.6553,1.22
+"Google, Instagram, YouTube",2580,2.6545,1.27
+"Google, WhatsApp, YouTube",2535,2.6526,1.2
+"Facebook, WhatsApp, YouTube",2516,2.6507,1.21
+Google,8291,2.6438,1.19
+"Email, Google, WhatsApp",2445,2.641,1.26
+Unknown,7893,2.6391,1.23
+"Facebook, YouTube",3344,2.6343,1.23
+"Facebook, Instagram",3245,2.6195,1.21
+"Google, YouTube",3259,2.5886,1.2
+"WhatsApp, YouTube",3368,2.5811,1.17
+"Google, WhatsApp",3359,2.5736,1.17
+YouTube,8259,2.5666,1.2
+"Facebook, Google, WhatsApp",2542,2.4988,1.17

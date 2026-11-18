@@ -1,0 +1,4 @@
+Task,Model,MAE,RMSE,R2_Score,Accuracy,Precision,Recall,F1_Score
+Revenue Prediction,Linear Regression,161971.8326,245163.2306,0.7413,,,,
+Profit/Loss Classification,Logistic Regression,,,,0.49368567279156406,0.7593486516058441,0.48962483399734397,0.5953624504831833
+Profit/Loss Classification,Decision Tree,,,,0.40380122497947846,0.7643538243051329,0.31270750332005315,0.4438357778170466
